@@ -90,9 +90,15 @@ This skill encourages the agent to:
 
 - [`SKILL.md`](./SKILL.md): the main skill definition and working methodology
 - [`references/advanced-patterns.md`](./references/advanced-patterns.md): advanced UI patterns and reusable code templates
+- [`CHANGELOG.md`](./CHANGELOG.md): version history
+- [`RELEASE_v1.0.0.md`](./RELEASE_v1.0.0.md): initial public release notes
+- [`LICENSE`](./LICENSE): open-source license
 
 - [`SKILL.md`](./SKILL.md)：主技能定义与工作方法论
 - [`references/advanced-patterns.md`](./references/advanced-patterns.md)：高级 UI 模式与可复用代码模板
+- [`CHANGELOG.md`](./CHANGELOG.md)：版本变更记录
+- [`RELEASE_v1.0.0.md`](./RELEASE_v1.0.0.md)：首个公开版本发布说明
+- [`LICENSE`](./LICENSE)：开源许可证
 
 ## Installation
 
@@ -198,6 +204,6 @@ This repository is especially useful for:
 
 ## License / 许可
 
-Add your preferred license here if you plan to open-source it publicly.
+This repository is released under the [MIT License](./LICENSE).
 
-如果你打算公开开源，请在这里补充你希望使用的许可证。
+本仓库基于 [MIT License](./LICENSE) 开源发布。
